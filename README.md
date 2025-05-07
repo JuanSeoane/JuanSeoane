@@ -31,6 +31,6 @@ I’m a Software Engineer with a strong curiosity for technology and application
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JuanSeoane.JuanSeoane)
 
 ### Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanSeoane&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanSeoane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
